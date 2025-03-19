@@ -18,6 +18,7 @@ public class MenuController {
     }
 
     public void handleHaetta(ActionEvent actionEvent) {
+        controller.haetta();
     }
 
     public void handleBreyta(ActionEvent actionEvent) {
