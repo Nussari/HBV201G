@@ -6,6 +6,6 @@ Sry að ég skili svona tölvan mín neitar að skila zip file án þess að unz
 
 [Halló heimur pdf](Vika1/HalloHeimur/verk1.pdf)
 
-[Verkefni 5](Skil5)
+[Verkefni 5](verk5)
 
-[Verkefni 5 pdf](Skil5/verk5.pdf)
+[Verkefni 5 pdf](verk5/verk5.pdf)
