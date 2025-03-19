@@ -7,7 +7,7 @@ import javafx.scene.layout.StackPane;
 import javafx.scene.media.Media;
 import vinnsla.EventModel;
 import vinnsla.Flokkur;
-
+import javafx.application.Platform;
 import java.time.LocalDate;
 import java.time.LocalTime;
 
@@ -30,4 +30,8 @@ public class EventManagerController {
         );
         eventView.setEventModel(model);
     }
+    public static void haetta(){
+        Platform.exit();
+    }
+
 }
