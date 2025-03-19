@@ -8,4 +8,4 @@ Sry að ég skili svona tölvan mín neitar að skila zip file án þess að unz
 
 [Verkefni 5](Skil5)
 
-[Verkefni 5 pdf](Skil5/)
+[Verkefni 5 pdf](Skil5/verk5.pdf)
